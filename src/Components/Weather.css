@@ -1,0 +1,25 @@
+input,
+button {
+  padding: 7px;
+  border-radius: 4px;
+  margin: 1px;
+}
+button {
+  cursor: pointer;
+}
+button:hover {
+  background-color: silver;
+}
+.display {
+  display: inline-block;
+  padding: 15px;
+  font-weight: 600;
+  box-shadow: 5px 10px 8px 10px #888888;
+}
+.container {
+  border: 1px solid black;
+  display: inline-block;
+  padding: 30px;
+  background-color: rgb(220, 226, 224);
+  border-radius: 5px;
+}
